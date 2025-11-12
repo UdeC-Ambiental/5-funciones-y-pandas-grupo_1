@@ -12,7 +12,7 @@ Desarrollar funciones en Python aplicadas al análisis de información ambiental
 
 ## 👥 Roles y Retos
 
-### 🧩 Reto 1 – Analista de temperatura y humedad
+### 🧩 Reto 1 – Analista de temperatura y humedad **Francy & Anggie**
 **Objetivo:** Identificar patrones térmicos y de humedad que afectan la biomasa.
 
 **Tareas:**
@@ -25,7 +25,7 @@ Desarrollar funciones en Python aplicadas al análisis de información ambiental
 
 ---
 
-### 🌞 Reto 2 – Analista de luz
+### 🌞 Reto 2 – Analista de luz **Santiago**
 **Objetivo:** Evaluar la relación entre la cantidad de luz y la productividad (biomasa).
 
 **Tareas:**
@@ -38,7 +38,7 @@ Desarrollar funciones en Python aplicadas al análisis de información ambiental
 
 ---
 
-### 🌿 Reto 3 – Analista de biomasa
+### 🌿 Reto 3 – Analista de biomasa **Karen**
 **Objetivo:** Clasificar los ecosistemas según su productividad y asociar variables ambientales.
 
 **Tareas:**
@@ -51,7 +51,7 @@ Desarrollar funciones en Python aplicadas al análisis de información ambiental
 
 ---
 
-### 🌱 Reto 4 – Integrador del grupo
+### 🌱 Reto 4 – Integrador del grupo **Samir**
 **Objetivo:** Combinar los resultados de los tres compañeros y crear un resumen final.
 
 **Tareas:**
